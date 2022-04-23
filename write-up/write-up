@@ -1,0 +1,18 @@
+The contract address:
+https://rinkeby.etherscan.io/tx/0xd4682f87f53236d604eed3966692aebd1570fef55b8b3451f1702bfccb15373c
+
+node version number:
+v17.3.0
+
+Truffle version number:
+v4.1.14
+
+web3 version number:
+web3@1.2.1
+
+
+UML documents:
+Activity
+Sequence
+State
+Class (Data Model)
