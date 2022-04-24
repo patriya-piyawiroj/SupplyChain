@@ -16,3 +16,20 @@ Activity
 Sequence
 State
 Class (Data Model)
+
+
+Libraries used:
+  "devDependencies": {
+    "lite-server": "2.4.0"
+    For seeing changes to website happen in real time 
+  }
+
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.17",
+    Network connection to ethereum through infura.io with transaction signing. 
+    Enables deployment to Rinkeby network with Metamask wallet.
+
+    "web3": "^1.7.0"
+    Used to connect to local/remote ethereum node
+  }
+
