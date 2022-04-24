@@ -19,3 +19,5 @@ Terminal 3:
 ```
 npm run dev
 ```
+
+truffle deploy --network rinkeby
